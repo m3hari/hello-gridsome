@@ -1,0 +1,15 @@
+{
+  "name": "hello",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-filesystem": "^0.2.0",
+    "@gridsome/transformer-remark": "^0.1.2",
+    "axios": "^0.18.0",
+    "gridsome": "^0.3.0"
+  }
+}
